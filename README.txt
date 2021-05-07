@@ -1,4 +1,4 @@
-All was ran on Google Colab notebooks. Unfortunately I was unable to create a working product 
+All code was ran on Google Colab notebooks. Unfortunately I was unable to create a working product 
 and only got so far as to train my model. A short description of the artifacts I have produced are written below. 
 
 model_training.ipynb 				- Defining and training my model. Experimenting with different network structures
